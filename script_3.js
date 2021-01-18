@@ -8,13 +8,13 @@ if (x < 0) {
 else {
   // Ja х<2
   if (x < 2) {
-    return х * х
+    return x * x
   }
   // Ja х>=2
   else {
     // Ja х<5
     if (x < 5) {
-      return 6 - х
+      return 6 - x
     }
     // Ja х>=5
     else {
